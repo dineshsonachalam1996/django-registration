@@ -10,3 +10,5 @@ designed to be extensible and support building additional workflows.
 
 Full documentation is `available online
 <https://django-registration.readthedocs.io/>`_.
+
+Include basic registration
